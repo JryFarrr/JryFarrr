@@ -4,10 +4,10 @@
 ---
 
 ### 🔥 GitHub Stats
-![Jiryan Farokhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![Jiryan Farokhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JryFarrr&show_icons=true&theme=dark)
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JryFarrr&layout=compact&theme=dark)
 
 ### 🚀 Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
