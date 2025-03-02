@@ -21,4 +21,4 @@
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiryan-farokhi-0780b6247/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JryFarrr)](https://github.com/JryFarrr/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JryFarrr&theme=onedark)](https://github.com/JryFarrr/github-profile-trophy)
